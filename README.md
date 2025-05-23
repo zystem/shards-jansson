@@ -1,1 +1,1 @@
-# shards-jansson
+This repository contains Crystal shard `jansson` — bindings to the Jansson C library for JSON serialization.
