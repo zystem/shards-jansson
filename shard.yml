@@ -9,4 +9,4 @@ license: MIT
 libraries:
   jansson:
     system: true
-    version: "*"
+    version: ">=0"
