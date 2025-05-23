@@ -1,6 +1,5 @@
 name: jansson
-version: 0.1.0
-
+version: 0.1.2
 crystal: ">= 1.0"
 
 description: Crystal bindings for the jansson C library
